@@ -1,4 +1,4 @@
 # Angular-SourceIT
 Angular course in Source IT
 
-This site collects all resources and tasks mastered during a training course on Angular.js
+Task1 - this branch contains all resources and test examples on Class-1
