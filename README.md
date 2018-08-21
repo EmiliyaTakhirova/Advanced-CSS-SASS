@@ -1,4 +1,9 @@
-# Angular-SourceIT
-Angular course in Source IT
+# Advanced CSS and SASS: Udemy
+Advanced CSS and SASS on Udemy
 
-This site collects all resources and tasks mastered during a training course on Angular.js
+Site name: the Natours.
+Audience: tourists and adventurous people
+Design: Jonas Schmedtmann
+
+This site collects all resources and tasks mastered during a training course on Advanced CSS and SASS.
+The single page is implemented using only HTML and CSS/SASS, no javascript is embedded.
