@@ -2,7 +2,7 @@
 Advanced CSS and SASS on Udemy
 
 Site name: the Natours.
-Audience: tourists and adventurous people
+Audience: tourists and adventurous people.
 Design: Jonas Schmedtmann
 
 This site collects all resources and tasks mastered during a training course on Advanced CSS and SASS.
