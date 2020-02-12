@@ -1,5 +1,4 @@
-# Advanced CSS and SASS: Udemy
-Advanced CSS and SASS on Udemy
+# Advanced CSS and SASS
 
 Site name: the Natours | 
 Audience: tourists and adventurous people | 
